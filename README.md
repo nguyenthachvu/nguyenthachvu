@@ -43,10 +43,14 @@ Với **hơn 8 năm kinh nghiệm** xây dựng các hệ thống quy mô lớn,
 ### 📫 Connect with me
 Tôi luôn sẵn lòng đón nhận các cơ hội hợp tác và thử thách mới về hệ thống.
 
-- 📧 **Gmail:** [nguyenthachvu1208@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=nguyenthachvu1208@gmail.com)
-- 🔵 **Facebook:** [fb.com/vunth12](https://www.facebook.com/vunth12)
-- 🟢 **Zalo:** [090.xxxx.xxx](https://zalo.me/your-phone-number)
-- 🌐 **Portfolio:** [vux-portfolio.vercel.app](https://your-vercel-link.app)
+| Platform | Link |
+| :--- | :--- |
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | [nguyenthachvu1208@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=nguyenthachvu1208@gmail.com) |
+| ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) | [vunth12 / AppMy2014](https://www.facebook.com/AppMy2014) |
+| ![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white) | [0974.328.068](https://zalo.me/0974328068) |
+| ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) | [@vusgp](https://t.me/vusgp) |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) | [Vũ Thạch](https://www.linkedin.com/in/v%C5%A9-th%E1%BA%A1ch-4a79b414a/) |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | [nguyenthachvu](https://github.com/nguyenthachvu) |
 
 ---
 *“Một hệ thống tốt bắt đầu từ một cấu trúc chuẩn mực.”*
