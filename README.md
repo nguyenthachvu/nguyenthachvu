@@ -51,6 +51,7 @@ Tôi luôn sẵn lòng đón nhận các cơ hội hợp tác và thử thách m
 | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) | [@vusgp](https://t.me/vusgp) |
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) | [Vũ Thạch](https://www.linkedin.com/in/v%C5%A9-th%E1%BA%A1ch-4a79b414a/) |
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | [nguyenthachvu](https://github.com/nguyenthachvu) |
+[![Portfolio](https://img.shields.io/badge/Check_My_Portfolio-vux--portfolio.vercel.app-success?style=for-the-badge&logo=vercel&logoColor=white)](https://vuxportfolio.vercel.app/vi)
 
 ---
 *“Một hệ thống tốt bắt đầu từ một cấu trúc chuẩn mực.”*
