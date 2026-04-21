@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Nguyen Thach Vu
 
-<!--
-**nguyenthachvu/nguyenthachvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Senior .NET & Angular Developer | iVIVU CorpBiz Team
+I'm passionate about building scalable system architectures (Modular Monolith, Clean Architecture) and high-performance web/mobile applications.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: **AVUGO** (Sports Court Booking Platform)
+- 🌱 Specialist in: **.NET 9/10, Angular 19/20, Ionic, PostgreSQL**
+- ⚡ DIY Enthusiast: Building Pickleball Training Machines with IoT & ESP32.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 GitHub Stats
+![Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthachvu&show_icons=true&theme=tokyonight)
